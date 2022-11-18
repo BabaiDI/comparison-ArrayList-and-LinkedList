@@ -6,7 +6,7 @@ internal partial class Program
     class Collection
     {
         private Random random = new();
-        private int rand(int max = /*int.MaxValue*/10)
+        private int rand(int max = int.MaxValue)
         {
             return random.Next(0, max);
         }
@@ -97,17 +97,16 @@ internal partial class Program
         {
             int test;
             ArrayListWatch.Restart();
-            for (int i = 0; i < arrayList.Count; i++)
+            foreach(int item in arrayList)
             {
-                test = (int)arrayList[i];
+                test = item;
             }
             ArrayListWatch.Stop();
 
             LinkedListWatch.Restart();
-            for (LinkedListNode<int> node = linkedList.First; node != linkedList.Last;)
+            foreach(int item in linkedList)
             {
-                test = node.Value;
-                node = node.Next;
+                test = item;
             }
             LinkedListWatch.Stop();
 
@@ -129,12 +128,7 @@ internal partial class Program
             LinkedListWatch.Restart();
             for (int i = 0; i < linkedList.Count; i++)
             {
-                LinkedListNode<int> randnode = linkedList.First;
-                for (int j = 1; j < rand(linkedList.Count - 1); j++)
-                {
-                    randnode = randnode.Next;
-                }
-                test = linkedList.Find(randnode.Value).Value;
+                test = linkedList.ElementAt(i);
             }
             LinkedListWatch.Stop();
 
