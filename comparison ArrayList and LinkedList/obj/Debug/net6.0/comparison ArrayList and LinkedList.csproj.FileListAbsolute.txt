@@ -1,0 +1,30 @@
+D:\Work\Универ\comparison ArrayList and LinkedList\comparison ArrayList and LinkedList\bin\Debug\net6.0\comparison ArrayList and LinkedList.exe
+D:\Work\Универ\comparison ArrayList and LinkedList\comparison ArrayList and LinkedList\bin\Debug\net6.0\comparison ArrayList and LinkedList.deps.json
+D:\Work\Универ\comparison ArrayList and LinkedList\comparison ArrayList and LinkedList\bin\Debug\net6.0\comparison ArrayList and LinkedList.runtimeconfig.json
+D:\Work\Универ\comparison ArrayList and LinkedList\comparison ArrayList and LinkedList\bin\Debug\net6.0\comparison ArrayList and LinkedList.dll
+D:\Work\Универ\comparison ArrayList and LinkedList\comparison ArrayList and LinkedList\bin\Debug\net6.0\comparison ArrayList and LinkedList.pdb
+D:\Work\Универ\comparison ArrayList and LinkedList\comparison ArrayList and LinkedList\obj\Debug\net6.0\comparison ArrayList and LinkedList.csproj.AssemblyReference.cache
+D:\Work\Универ\comparison ArrayList and LinkedList\comparison ArrayList and LinkedList\obj\Debug\net6.0\comparison ArrayList and LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Универ\comparison ArrayList and LinkedList\comparison ArrayList and LinkedList\obj\Debug\net6.0\comparison ArrayList and LinkedList.AssemblyInfoInputs.cache
+D:\Work\Универ\comparison ArrayList and LinkedList\comparison ArrayList and LinkedList\obj\Debug\net6.0\comparison ArrayList and LinkedList.AssemblyInfo.cs
+D:\Work\Универ\comparison ArrayList and LinkedList\comparison ArrayList and LinkedList\obj\Debug\net6.0\comparison ArrayList and LinkedList.csproj.CoreCompileInputs.cache
+D:\Work\Универ\comparison ArrayList and LinkedList\comparison ArrayList and LinkedList\obj\Debug\net6.0\comparison ArrayList and LinkedList.dll
+D:\Work\Универ\comparison ArrayList and LinkedList\comparison ArrayList and LinkedList\obj\Debug\net6.0\refint\comparison ArrayList and LinkedList.dll
+D:\Work\Универ\comparison ArrayList and LinkedList\comparison ArrayList and LinkedList\obj\Debug\net6.0\comparison ArrayList and LinkedList.pdb
+D:\Work\Универ\comparison ArrayList and LinkedList\comparison ArrayList and LinkedList\obj\Debug\net6.0\comparison ArrayList and LinkedList.genruntimeconfig.cache
+D:\Work\Универ\comparison ArrayList and LinkedList\comparison ArrayList and LinkedList\obj\Debug\net6.0\ref\comparison ArrayList and LinkedList.dll
+D:\Work\Универ\comparison-ArrayList-and-LinkedList\comparison ArrayList and LinkedList\bin\Debug\net6.0\comparison ArrayList and LinkedList.exe
+D:\Work\Универ\comparison-ArrayList-and-LinkedList\comparison ArrayList and LinkedList\bin\Debug\net6.0\comparison ArrayList and LinkedList.deps.json
+D:\Work\Универ\comparison-ArrayList-and-LinkedList\comparison ArrayList and LinkedList\bin\Debug\net6.0\comparison ArrayList and LinkedList.runtimeconfig.json
+D:\Work\Универ\comparison-ArrayList-and-LinkedList\comparison ArrayList and LinkedList\bin\Debug\net6.0\comparison ArrayList and LinkedList.dll
+D:\Work\Универ\comparison-ArrayList-and-LinkedList\comparison ArrayList and LinkedList\bin\Debug\net6.0\comparison ArrayList and LinkedList.pdb
+D:\Work\Универ\comparison-ArrayList-and-LinkedList\comparison ArrayList and LinkedList\obj\Debug\net6.0\comparison ArrayList and LinkedList.csproj.AssemblyReference.cache
+D:\Work\Универ\comparison-ArrayList-and-LinkedList\comparison ArrayList and LinkedList\obj\Debug\net6.0\comparison ArrayList and LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Универ\comparison-ArrayList-and-LinkedList\comparison ArrayList and LinkedList\obj\Debug\net6.0\comparison ArrayList and LinkedList.AssemblyInfoInputs.cache
+D:\Work\Универ\comparison-ArrayList-and-LinkedList\comparison ArrayList and LinkedList\obj\Debug\net6.0\comparison ArrayList and LinkedList.AssemblyInfo.cs
+D:\Work\Универ\comparison-ArrayList-and-LinkedList\comparison ArrayList and LinkedList\obj\Debug\net6.0\comparison ArrayList and LinkedList.csproj.CoreCompileInputs.cache
+D:\Work\Универ\comparison-ArrayList-and-LinkedList\comparison ArrayList and LinkedList\obj\Debug\net6.0\comparison ArrayList and LinkedList.dll
+D:\Work\Универ\comparison-ArrayList-and-LinkedList\comparison ArrayList and LinkedList\obj\Debug\net6.0\refint\comparison ArrayList and LinkedList.dll
+D:\Work\Универ\comparison-ArrayList-and-LinkedList\comparison ArrayList and LinkedList\obj\Debug\net6.0\comparison ArrayList and LinkedList.pdb
+D:\Work\Универ\comparison-ArrayList-and-LinkedList\comparison ArrayList and LinkedList\obj\Debug\net6.0\comparison ArrayList and LinkedList.genruntimeconfig.cache
+D:\Work\Универ\comparison-ArrayList-and-LinkedList\comparison ArrayList and LinkedList\obj\Debug\net6.0\ref\comparison ArrayList and LinkedList.dll
