@@ -4,7 +4,7 @@
 
 Для роботи зі списками використовувались класси [***ArrayList***](https://learn.microsoft.com/en-us/dotnet/api/system.collections.arraylist?view=net-7.0) та [***LinkedList&lt;T&gt;***](https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.linkedlist-1?view=net-7.0).
 
-Був створенный класс [***Collection***](/blob/main/comparison%20ArrayList%20and%20LinkedList/Collection.cs) в якому знаходяться списки описані вище, та описані методи для перевірки часу: 
+Був створенный класс [***Collection***](https://github.com/BabaiDI/comparison-ArrayList-and-LinkedList/blob/main/comparison%20ArrayList%20and%20LinkedList/Collection.cs) в якому знаходяться списки описані вище, та описані методи для перевірки часу: 
 1. Доступу до елементу Random Access (доступ за індексом)
 2. Доступу до елементу Sequential Access (доступ за ітератором)
 2. Вставки елементу на початок списку
@@ -19,7 +19,7 @@
 
 ## Тестові випадки
 
-Бло проведено тестування часу виконання операцій для списків, тестові випадки наведенні в папці "[Тестові випадки](/tree/main/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%96%20%D0%B2%D0%B8%D0%BF%D0%B0%D0%B4%D0%BA%D0%B8)"
+Бло проведено тестування часу виконання операцій для списків, тестові випадки наведенні в папці "[Тестові випадки](https://github.com/BabaiDI/comparison-ArrayList-and-LinkedList/tree/main/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%96%20%D0%B2%D0%B8%D0%BF%D0%B0%D0%B4%D0%BA%D0%B8)"
 
 Проаналізувавши тестові випадки ми можемо прийти до висновків:
 1. Послідовний доступ до елементів списків не відрізняеться за часом в обоїх списках.
